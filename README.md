@@ -9,3 +9,7 @@ del código estable (main). Esto nos permite...
 - develop: integración de features
 - feature/<nombre>: nuevas funcionalidades
 - hotfix/<nombre>: correcciones urgentes en producción
+
+### Reflexion:
+
+Realizar está actividad nos sirvió como equipo para poner en práctica las herramientas de trabajo colaborativo junto a sus funciones, para tener un mejor manejo de estas y aprender nuevas implementaciones. Logramos ejecutar correctamente el pipepline con github actions, asegurando una correcta automatizacipon para las tareas creadas, y estableciendo el flujo para nuevas implementaciones.
